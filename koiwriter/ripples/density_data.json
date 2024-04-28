@@ -1,0 +1,202 @@
+{
+    "i": {
+        "quarters": 1,
+        "dense_above_dir": ["NW"],
+        "dense_below_dir": []
+    },
+    "u": {
+        "quarters": 2,
+        "dense_above_dir": ["N"],
+        "dense_below_dir": []
+    },
+    "o": {
+        "quarters": 3,
+        "dense_above_dir": ["NE"],
+        "dense_below_dir": []
+    },
+    "oi": {
+        "quarters": 4,
+        "dense_above_dir": ["E"],
+        "dense_below_dir": []
+    },
+    "ii": {
+        "quarters": 1,
+        "dense_above_dir": ["NW"],
+        "dense_below_dir": []
+    },
+    "y": {
+        "quarters": 2,
+        "dense_above_dir": ["NE"],
+        "dense_below_dir": []
+    },
+    "e": {
+        "quarters": 3,
+        "dense_above_dir": ["SE"],
+        "dense_below_dir": []
+    },
+    "eu": {
+        "quarters": 4,
+        "dense_above_dir": ["SW"],
+        "dense_below_dir": []
+    },
+    "ae": {
+        "quarters": 1,
+        "dense_above_dir": ["NW"],
+        "dense_below_dir": ["W", "N"]
+    },
+    "ai": {
+        "quarters": 2,
+        "dense_above_dir": ["N"],
+        "dense_below_dir": ["W", "E"]
+    },
+    "au": {
+        "quarters": 3,
+        "dense_above_dir": ["NE"],
+        "dense_below_dir": ["W", "S"]
+    },
+    "a": {
+        "quarters": 4,
+        "dense_above_dir": ["E"],
+        "dense_below_dir": ["SW", "W", "NW"]
+    },
+    "m": {
+        "quarters": 1,
+        "dense_above_dir": ["W", "NW"],
+        "dense_below_dir": []
+    },
+    "n": {
+        "quarters": 2,
+        "dense_above_dir": ["W", "N"],
+        "dense_below_dir": []
+    },
+    "p": {
+        "quarters": 3,
+        "dense_above_dir": ["W", "NE"],
+        "dense_below_dir": []
+    },
+    "b": {
+        "quarters": 4,
+        "dense_above_dir": ["W", "E"],
+        "dense_below_dir": []
+    },
+    "t": {
+        "quarters": 1,
+        "dense_above_dir": ["W", "N"],
+        "dense_below_dir": []
+    },
+    "d": {
+        "quarters": 2,
+        "dense_above_dir": ["W", "E"],
+        "dense_below_dir": []
+    },
+    "th": {
+        "quarters": 3,
+        "dense_above_dir": ["W", "S"],
+        "dense_below_dir": []
+    },
+    "ts": {
+        "quarters": 4,
+        "dense_above_dir": ["W"],
+        "dense_below_dir": []
+    },
+    "k": {
+        "quarters": 1,
+        "dense_above_dir": ["W"],
+        "dense_below_dir": ["N"]
+    },
+    "kh": {
+        "quarters": 2,
+        "dense_above_dir": ["W"],
+        "dense_below_dir": ["E"]
+    },
+    "g": {
+        "quarters": 3,
+        "dense_above_dir": ["W"],
+        "dense_below_dir": ["S"]
+    },
+    "q": {
+        "quarters": 4,
+        "dense_above_dir": ["W"],
+        "dense_below_dir": ["W"]
+    },
+    "ph": {
+        "quarters": 1,
+        "dense_above_dir": [],
+        "dense_below_dir": ["N"]
+    },
+    "vh": {
+        "quarters": 2,
+        "dense_above_dir": [],
+        "dense_below_dir": ["E"]
+    },
+    "f": {
+        "quarters": 3,
+        "dense_above_dir": [],
+        "dense_below_dir": ["S"]
+    },
+    "v": {
+        "quarters": 4,
+        "dense_above_dir": [],
+        "dense_below_dir": ["W"]
+    },
+    "s": {
+        "quarters": 1,
+        "dense_above_dir": ["NW"],
+        "dense_below_dir": ["NW"]
+    },
+    "sh": {
+        "quarters": 2,
+        "dense_above_dir": ["N"],
+        "dense_below_dir": ["N"]
+    },
+    "ch": {
+        "quarters": 3,
+        "dense_above_dir": ["E"],
+        "dense_below_dir": ["E"]
+    },
+    "z": {
+        "quarters": 4,
+        "dense_above_dir": ["E"],
+        "dense_below_dir": ["E"]
+    },
+    "j": {
+        "quarters": 1,
+        "dense_above_dir": ["W"],
+        "dense_below_dir": ["NW"]
+    },
+    "c": {
+        "quarters": 2,
+        "dense_above_dir": ["W"],
+        "dense_below_dir": ["NW"]
+    },
+    "x": {
+        "quarters": 3,
+        "dense_above_dir": ["W"],
+        "dense_below_dir": ["NW"]
+    },
+    "h": {
+        "quarters": 4,
+        "dense_above_dir": ["W"],
+        "dense_below_dir": ["NW"]
+    },
+    "`": {
+        "quarters": 1,
+        "dense_above_dir": ["NW"],
+        "dense_below_dir": ["N"]
+    },
+    "w": {
+        "quarters": 2,
+        "dense_above_dir": ["N"],
+        "dense_below_dir": ["E"]
+    },
+    "l": {
+        "quarters": 3,
+        "dense_above_dir": ["NE"],
+        "dense_below_dir": ["S"]
+    },
+    "r": {
+        "quarters": 4,
+        "dense_above_dir": ["E"],
+        "dense_below_dir": ["SW"]
+    }
+}
